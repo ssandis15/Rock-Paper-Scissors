@@ -1,0 +1,50 @@
+.content{
+    max-width: 500px;
+    margin: auto;
+    padding: 10px;
+}
+.btnRock{
+    width: 130px;
+    height: 40px;
+    background-color: lightblue;
+    border-radius: 5px;
+}
+.btnPaper{
+    width: 130px;
+    height: 40px;
+    background-color: lightblue;
+    border-radius: 5px;
+}
+.btnScissors{
+    width: 130px;
+    height: 40px;
+    background-color: lightblue;
+    border-radius: 5px;
+}
+.flexCont{
+    display: flex;
+}
+.result{
+    display: flex;
+
+    flex-direction: row;
+
+}
+#endResult{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 5px;
+}
+.result2{
+    display: flex;
+    padding-left: 200px;
+    flex-direction: row;
+
+}
+#computerResult{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 5px;
+}
