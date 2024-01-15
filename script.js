@@ -74,6 +74,7 @@ container.appendChild(scissors);
 rock.classList.add('btnRock');
 paper.classList.add('btnPaper');
 scissors.classList.add('btnScissors');
+result.classList.add('results');
 
 
 
